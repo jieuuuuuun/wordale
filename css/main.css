@@ -48,6 +48,9 @@ footer {
 }
 
 .key-enter,
-.key-X {
+.key-back {
   width: 50px;
+}
+.key-back svg {
+  width: 20px;
 }
